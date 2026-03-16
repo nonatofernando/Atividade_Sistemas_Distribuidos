@@ -62,9 +62,6 @@ a:visited {
 	color: #f7b600;
 }
 
-a:hover {
-	text-decoration: underline;
-}
 
 #area-cabecalho a:link,
 #area-cabecalho a:visited {
